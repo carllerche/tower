@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Error","Errors produced by `Timeout`."],["ResponseFuture","`Timeout` response future"],["Timeout","Applies a timeout to requests."]]});

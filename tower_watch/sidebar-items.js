@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Error",""]],"struct":[["ResponseFuture",""],["WatchService","A Service that re-binds an inner Service each time a Watch is notified."]],"trait":[["Bind","Binds new instances of a Service with a borrowed reference to the watched value."]]});

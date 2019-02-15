@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Error","Enumeration of errors that can be returned by `Mock`."]],"struct":[["Handle","Handle to the `Mock`."],["Mock","A mock service"],["Request",""],["Respond","Respond to a request received by `Mock`."],["ResponseFuture","Future of the `Mock` response."]]});

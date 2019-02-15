@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Error","Error produced by `OptionService` responding to a request."]],"struct":[["OptionService","Optionally forwards requests to an inner service."],["ResponseFuture","Response future returned by `OptionService`."]]});

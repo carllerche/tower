@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["BoxService","A boxed `Service + Send` trait object."],["UnsyncBoxService","A boxed `Service` trait object."]],"type":[["BoxFuture","A boxed `Future + Send` trait object."],["UnsyncBoxFuture","A boxed `Future` trait object."]]});
